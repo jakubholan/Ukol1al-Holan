@@ -5,7 +5,7 @@ print("Počáteční pole:", pole)
 
 #2. Přidejte pomocí metody append() jeden prvek. - "vítr"
 pole.append("vítr")
-print("Po přidání 'vítr':, pole)
+print("Po přidání 'vítr':", pole)
 
 #3. Odstraňte pomocí metody remove() druhý prvek z pole.
 pole.remove(pole[1]
